@@ -4,7 +4,7 @@ The Data Incubator Capstone Project
 Sticky reviews are consumer reviews that start a sequence of low-scorring reviews.
 In this work I define and analyze sticky reviews.
 
-I start out with the Amazon Reviews data (1,689,188 reviews) downloaded from:
+I start out with the Amazon Reviews data (1.5Gb) downloaded from:
 http://jmcauley.ucsd.edu/data/amazon/
 
 ##### 01 Sticky Reviews histogram contains the initial analysis (histograms) that defines the sticky reviews
