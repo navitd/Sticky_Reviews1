@@ -2,7 +2,9 @@
 The Data Incubator Capstone Project
 
 Sticky reviews are consumer reviews that start a sequence of low-scorring reviews.
-In this work I define and analyze sticky reviews.
+It is important for every seller to identify sticky reviews.
+In this project I first define and later build a classifier for spotting sticky reviews.
+
 
 I start out with the Amazon Reviews data (1.5Gb) downloaded from:
 http://jmcauley.ucsd.edu/data/amazon/
