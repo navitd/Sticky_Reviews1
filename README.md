@@ -11,3 +11,6 @@ http://jmcauley.ucsd.edu/data/amazon/
 
 ##### 01 Sticky Reviews histogram contains the initial analysis (histograms) that defines the sticky reviews
 but not the initial steps of downloading the data and the preprocessing, which I did in a different notebook (to be uploaded soon)
+
+##### 03_Sticky_Reviews_LDA_sticky_10topics I train and visualize a LDA model for the sticky reviews
+using gensim and pyLDAvis
