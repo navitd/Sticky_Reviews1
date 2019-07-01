@@ -14,3 +14,7 @@ but not the initial steps of downloading the data and the preprocessing, which I
 
 ##### 03_Sticky_Reviews_LDA_sticky_10topics I train and visualize a LDA model for the sticky reviews
 using gensim and pyLDAvis
+
+##### 04_WordCloud_gensim_tfidf_function
+A nice visualization of text used in sticky reviews
+I plot the word-cloud of the sticky reviews and the non-sticky reviews (dip reviews
